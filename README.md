@@ -252,4 +252,4 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 
 ## RESULT
-Include your result here
+Developing a Neural Network Classification Model using Transfer Learning was Successfully built
