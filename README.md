@@ -232,19 +232,24 @@ predict_image(model, image_index=25, dataset=test_dataset)
 ```
 
 ### OUTPUT
-![alt text](image.png)
+<img width="1413" height="372" alt="image" src="https://github.com/user-attachments/assets/dcd053c1-5b32-412b-8fbe-aa55b13d5e45" />
+
 
 ## Training Loss, Validation Loss Vs Iteration Plot
+<img width="939" height="815" alt="image" src="https://github.com/user-attachments/assets/7a5eb00b-1e25-4097-84ed-6c75d3165072" />
 
-![alt text](image-1.png)
 ## Confusion Matrix
-![alt text](image-2.png)
+<img width="877" height="786" alt="image" src="https://github.com/user-attachments/assets/d487cbd6-1ebb-400c-aebb-1c100d7d5e2a" />
+
 ## Classification Report
-![alt text](image-3.png)
+<img width="682" height="235" alt="image" src="https://github.com/user-attachments/assets/77ec5d2e-1584-431c-8ccd-e1dddc37013c" />
+
 
 ### New Sample Data Prediction
-![alt text](image-4.png)
-![alt text](image-5.png)
+<img width="617" height="610" alt="image" src="https://github.com/user-attachments/assets/d4a255d1-3ea7-4ae4-9937-720b56a47973" /> <img width="527" height="617" alt="image" src="https://github.com/user-attachments/assets/b7f07777-e7a0-4b74-82ce-c9dbeaf34d10" />
+
+
+
 
 ## RESULT
 Include your result here
